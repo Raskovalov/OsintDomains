@@ -1,0 +1,13 @@
+0 |  HOST | www.raskolnikov.online. 3503 IN A 31.31.196.183
+1 |  HOST | raskolnikov.online. 3502 IN A 31.31.196.183
+1 |  DNS  | raskolnikov.online. 3503 IN NS ns1.hosting.reg.ru.
+1 |  DNS  | raskolnikov.online. 3503 IN NS ns2.hosting.reg.ru.
+2 |  HOST | raskolnikov.org. 3502 IN A 89.252.138.67
+2 |  DNS  | raskolnikov.org. 3503 IN NS ns1.guzelhosting.com.
+2 |  DNS  | raskolnikov.org. 3503 IN NS ns12.guzelhosting.com.
+2 |  DNS  | raskolnikov.org. 3503 IN NS ns11.guzelhosting.com.
+2 |  DNS  | raskolnikov.org. 3503 IN NS ns2.guzelhosting.com.
+3 |  HOST | raskolnikov.tk. 203 IN A 104.21.12.181
+3 |  HOST | raskolnikov.tk. 203 IN A 172.67.132.53
+3 |  DNS  | raskolnikov.tk. 3503 IN NS edna.ns.cloudflare.com.
+3 |  DNS  | raskolnikov.tk. 3503 IN NS jeremy.ns.cloudflare.com.
